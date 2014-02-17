@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.codeschool.com/"
+      },
+      "urls": [ "https://www.codeschool.com/" ]
+   },
+   "description": "Learn to code in the comfort of your browser with video tutorials, programming challenges, and screencasts.",
+   "icons": {
+      "16": "iconx16.png",
+      "48": "iconx48.png",
+      "128": "iconx128.png"   
+   },
+   "manifest_version": 2,
+   "name": "codeschool",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
